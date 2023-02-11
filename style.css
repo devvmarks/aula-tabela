@@ -1,21 +1,16 @@
 
-.cor-da-tabela{ background-color: rgb(232, 243, 185);
+.cor-da-tabela{background-color: rgb(232, 243, 185);
 
 
 
 }
 
 
-div {   
+div    {   
         width: 660px;
         height: auto;
         margin: 20px;
         padding: 10px;
-
         border: solid 5px;
-        font-size: 30px;
-        
-
-
-
-}
+        font-size: 31px;
+        }
